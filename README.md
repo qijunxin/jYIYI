@@ -1,11 +1,9 @@
-/*
-*
-* This is just a light javascript library
-* 
-* Author :Qi Junxin
-*
-*
-*-------------------------Api Abstract---------------------------
+This is just a light javascript library
+
+Author :Qi Junxin
+
+Api Abstract
+
 	01.array
 		concat:合并数组
 		contains:判断数组中是否包含某元素
@@ -21,7 +19,7 @@
 		removeAt:移除指定位置的元素
 		shuffle:将数组打乱
 		unique:去除重复数组
-
+		
 	02.date
 		add:计算日期  yy.date.add(day,20)
 		getDDay:显示周或者星期   yy.date.getDDay(day,Z_X)
@@ -142,5 +140,3 @@
 		rollTo : 页面滚动至
 		rollToBottom : 页面滚动至底部
 		rollToTop ： 页面滚动至顶部
-*
-*/
